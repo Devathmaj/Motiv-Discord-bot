@@ -58,11 +58,11 @@ If the AI detects sadness, depression, or feeling down:
 
 The bot generates a custom comforting message.
 
-It mentions the user directly with the motivational response.
+- It mentions the user directly with the motivational response.
 
-If the user’s message does not indicate sadness, the bot remains silent.
+- If the user’s message does not indicate sadness, the bot remains silent.
 
-Example 💬
+# Example 💬
 User: "I'm having a really tough day..."
 
 Bot: "<@123456789> Remember, even the darkest nights end with sunrise ☀️. You're not alone!"
