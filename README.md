@@ -34,13 +34,3 @@ A supportive Discord bot that detects sad or down messages and responds with upl
 ```bash
 pip install discord.py python-dotenv openai
 
-# Configuration
-
-Create a `.env` file in your project directory with the following content:
-
-```ini
-DISCORD_TOKEN=your_discord_bot_token_here
-OPENROUTER_API_KEY=your_openrouter_api_key_here
-# or if using OpenAI:
-OPENAI_API_KEY=your_openai_api_key_here
-
